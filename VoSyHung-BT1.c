@@ -15,7 +15,7 @@ int main() {
     return 0;
 }
 
-/* OUTPUT: 
+/* OUTPUT của SINH VIÊN: 
 ID4: Vo Sy Hung, 22 tuoi, que quan Ha Noi
 ID0: Vo Sy Hung, 22 tuoi, que quan Ha Noi
 ID1: Vo Sy Hung, 22 tuoi, que quan Ha Noi

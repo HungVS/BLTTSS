@@ -19,9 +19,10 @@ int main(){
   printf("Tich phan: %f\n",tichphan);     
   return 0;
   }
+
 // Tich phan: 18.438564
 
-/* OUTPUT: 
-Tich phan: 18.438566
+/* OUTPUT của SINH VIÊN: 
+Tich phan: 18.438564
 */
 

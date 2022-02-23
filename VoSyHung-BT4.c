@@ -40,6 +40,6 @@ MPI_Gather(Ac, m,MPI_INT,A,m,MPI_INT,1,MPI_COMM_WORLD);
   return 0;
 }
 
-/* OUTPUT: 
+/* OUTPUT của SINH VIÊN: 
 0  1  2  3  4  0  1  2  3  4  0  1  2  3  4  0  1  2  3  4
 */
